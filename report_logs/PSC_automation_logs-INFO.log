@@ -1,0 +1,304 @@
+13:56:35,260  INFO utils.BaseClass - *****************************Creating Session***************************************************
+13:56:35,277  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@c38860a3
+13:57:41,067  INFO utils.BaseClass - *****************************Creating Session***************************************************
+13:57:41,084  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+14:00:32,508  INFO utils.BaseClass - *****************************Creating Session***************************************************
+14:00:32,524  INFO ConnectionHandler - Making connection with RDS
+14:00:50,884  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+09:56:57,393  INFO utils.BaseClass - *****************************Creating Session***************************************************
+09:56:57,393  INFO ConnectionHandler - Making connection with RDS
+09:57:03,902  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+10:09:40,899  INFO utils.BaseClass - *****************************Creating Session***************************************************
+10:09:40,906  INFO ConnectionHandler - Making connection with RDS
+10:09:41,587  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+10:10:30,725  INFO utils.BaseClass - *****************************Creating Session***************************************************
+10:10:30,731  INFO ConnectionHandler - Making connection with RDS
+10:10:31,396  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+14:58:12,492  INFO utils.BaseClass - *****************************Creating Session***************************************************
+14:58:12,492  INFO ConnectionHandler - Making connection with RDS
+14:58:18,694  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+16:47:28,953  INFO utils.BaseClass - *****************************Creating Session***************************************************
+16:47:28,959  INFO ConnectionHandler - Making connection with RDS
+16:47:29,538  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+11:15:00,398  INFO utils.BaseClass - *****************************Creating Session***************************************************
+11:15:00,413  INFO ConnectionHandler - Making connection with RDS
+11:15:08,084  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+11:21:22,647  INFO utils.BaseClass - *****************************Creating Session***************************************************
+11:21:22,663  INFO ConnectionHandler - Making connection with RDS
+11:21:23,219  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+11:24:22,134  INFO utils.BaseClass - *****************************Creating Session***************************************************
+11:24:22,134  INFO ConnectionHandler - Making connection with RDS
+11:24:22,703  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+11:25:18,590  INFO utils.BaseClass - *****************************Creating Session***************************************************
+11:25:18,598  INFO ConnectionHandler - Making connection with RDS
+11:25:19,289  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@8421b5e6
+11:28:50,464  INFO utils.BaseClass - *****************************Creating Session***************************************************
+11:28:50,464  INFO ConnectionHandler - Making connection with RDS
+11:28:51,053  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+11:30:20,421  INFO utils.BaseClass - *****************************Creating Session***************************************************
+11:30:20,421  INFO ConnectionHandler - Making connection with RDS
+11:30:20,997  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+11:33:44,215  INFO utils.BaseClass - *****************************Creating Session***************************************************
+11:33:44,225  INFO ConnectionHandler - Making connection with RDS
+11:33:44,791  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+11:35:59,393  INFO utils.BaseClass - *****************************Creating Session***************************************************
+11:35:59,399  INFO ConnectionHandler - Making connection with RDS
+11:35:59,960  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+11:49:13,687  INFO utils.BaseClass - *****************************Creating Session***************************************************
+11:49:13,693  INFO ConnectionHandler - Making connection with RDS
+11:49:14,552  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@a7ec2e21
+12:01:02,181  INFO utils.BaseClass - *****************************Creating Session***************************************************
+12:01:02,194  INFO ConnectionHandler - Making connection with RDS
+12:01:03,268  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+12:07:21,782  INFO utils.BaseClass - *****************************Creating Session***************************************************
+12:07:21,788  INFO ConnectionHandler - Making connection with RDS
+12:07:30,555  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+12:18:50,525  INFO utils.BaseClass - *****************************Creating Session***************************************************
+12:18:50,541  INFO ConnectionHandler - Making connection with RDS
+12:19:18,115  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+12:20:13,477  INFO utils.BaseClass - *****************************Creating Session***************************************************
+12:20:25,896  INFO ConnectionHandler - Making connection with RDS
+12:20:36,150  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@9bf2e835
+12:20:57,761  INFO utils.BaseClass - *****************************Creating Session***************************************************
+12:20:57,761  INFO ConnectionHandler - Making connection with RDS
+12:21:01,619  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@9bf2e835
+12:21:22,233  INFO utils.BaseClass - *****************************Creating Session***************************************************
+12:21:22,239  INFO ConnectionHandler - Making connection with RDS
+12:21:25,215  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@9bf2e835
+12:22:07,026  INFO utils.BaseClass - *****************************Creating Session***************************************************
+12:22:07,036  INFO ConnectionHandler - Making connection with RDS
+12:22:10,633  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@9bf2e835
+12:23:22,845  INFO utils.BaseClass - *****************************Creating Session***************************************************
+12:23:22,860  INFO ConnectionHandler - Making connection with RDS
+12:23:27,345  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@9bf2e835
+12:24:32,477  INFO utils.BaseClass - *****************************Creating Session***************************************************
+12:24:32,493  INFO ConnectionHandler - Making connection with RDS
+12:24:35,465  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@9bf2e835
+12:24:49,100  INFO utils.BaseClass - *****************************Creating Session***************************************************
+12:24:49,116  INFO ConnectionHandler - Making connection with RDS
+12:24:53,022  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@9bf2e835
+12:25:34,831  INFO utils.BaseClass - *****************************Creating Session***************************************************
+12:25:34,847  INFO ConnectionHandler - Making connection with RDS
+12:25:54,469  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@9bf2e835
+12:27:24,966  INFO utils.BaseClass - *****************************Creating Session***************************************************
+12:27:24,983  INFO ConnectionHandler - Making connection with RDS
+12:27:25,679  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@c38860a3
+12:27:58,336  INFO utils.BaseClass - *****************************Creating Session***************************************************
+12:27:58,345  INFO ConnectionHandler - Making connection with RDS
+12:27:58,909  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+12:29:48,362  INFO utils.BaseClass - *****************************Creating Session***************************************************
+12:29:48,362  INFO ConnectionHandler - Making connection with RDS
+12:29:48,920  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+12:33:07,408  INFO utils.BaseClass - *****************************Creating Session***************************************************
+12:33:07,413  INFO ConnectionHandler - Making connection with RDS
+12:33:07,961  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+12:34:57,132  INFO utils.BaseClass - *****************************Creating Session***************************************************
+12:34:57,148  INFO ConnectionHandler - Making connection with RDS
+12:34:59,565  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+12:36:20,738  INFO utils.BaseClass - *****************************Creating Session***************************************************
+12:36:20,758  INFO ConnectionHandler - Making connection with RDS
+12:36:24,237  INFO BaseClass - **Reading Test Case excel Sheet**
+12:36:24,687  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+12:36:24,911  INFO ConnectionHandler - Closing Db connections
+12:36:24,914  INFO ConnectionHandler - My SQL connection closed
+12:38:48,147  INFO utils.BaseClass - *****************************Creating Session***************************************************
+12:38:48,147  INFO ConnectionHandler - Making connection with RDS
+12:39:01,244  INFO BaseClass - **Reading Test Case excel Sheet**
+12:39:33,961  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@9bf2e835
+12:40:53,798  INFO utils.BaseClass - *****************************Creating Session***************************************************
+12:40:53,798  INFO ConnectionHandler - Making connection with RDS
+12:40:56,944  INFO BaseClass - **Reading Test Case excel Sheet**
+12:40:57,348  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+12:40:57,575  INFO ConnectionHandler - Closing Db connections
+12:40:57,575  INFO ConnectionHandler - My SQL connection closed
+12:41:22,220  INFO utils.BaseClass - *****************************Creating Session***************************************************
+12:41:22,227  INFO ConnectionHandler - Making connection with RDS
+12:41:28,747  INFO BaseClass - **Reading Test Case excel Sheet**
+12:41:42,142  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@9bf2e835
+12:43:09,658  INFO ConnectionHandler - Closing Db connections
+12:43:09,658  INFO ConnectionHandler - My SQL connection closed
+12:43:28,273  INFO utils.BaseClass - *****************************Creating Session***************************************************
+12:43:28,273  INFO ConnectionHandler - Making connection with RDS
+12:43:31,447  INFO BaseClass - **Reading Test Case excel Sheet**
+12:43:31,848  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+12:43:32,057  INFO ConnectionHandler - Closing Db connections
+12:43:32,057  INFO ConnectionHandler - My SQL connection closed
+12:45:10,293  INFO utils.BaseClass - *****************************Creating Session***************************************************
+12:45:10,309  INFO ConnectionHandler - Making connection with RDS
+12:45:10,878  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+12:47:04,756  INFO utils.BaseClass - *****************************Creating Session***************************************************
+12:47:04,756  INFO ConnectionHandler - Making connection with RDS
+12:47:05,304  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+12:50:14,297  INFO utils.BaseClass - *****************************Creating Session***************************************************
+12:50:14,297  INFO ConnectionHandler - Making connection with RDS
+12:50:16,664  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+12:58:01,547  INFO utils.BaseClass - *****************************Creating Session***************************************************
+12:58:01,547  INFO ConnectionHandler - Making connection with RDS
+12:58:08,659  INFO BaseClass - **Reading Test Case excel Sheet**
+12:58:09,113  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+12:58:09,344  INFO ConnectionHandler - Closing Db connections
+12:58:09,344  INFO ConnectionHandler - My SQL connection closed
+12:58:13,513  INFO utils.BaseClass - **********************************Ending Session**********************************************
+
+13:20:26,711  INFO utils.BaseClass - *****************************Creating Session***************************************************
+13:20:26,717  INFO ConnectionHandler - Making connection with RDS
+13:20:29,945  INFO BaseClass - **Reading Test Case excel Sheet**
+13:20:30,356  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+13:20:30,575  INFO ConnectionHandler - Closing Db connections
+13:20:30,577  INFO ConnectionHandler - My SQL connection closed
+13:20:34,192  INFO utils.BaseClass - **********************************Ending Session**********************************************
+
+13:26:22,349  INFO utils.BaseClass - *****************************Creating Session***************************************************
+13:26:22,355  INFO ConnectionHandler - Making connection with RDS
+13:26:25,557  INFO BaseClass - **Reading Test Case excel Sheet**
+13:26:25,986  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+13:26:26,209  INFO ConnectionHandler - Closing Db connections
+13:26:26,210  INFO ConnectionHandler - My SQL connection closed
+13:26:29,419  INFO utils.BaseClass - **********************************Ending Session**********************************************
+
+15:43:45,588  INFO utils.BaseClass - *****************************Creating Session***************************************************
+15:43:45,595  INFO ConnectionHandler - Making connection with RDS
+15:43:55,842  INFO BaseClass - **Reading Test Case excel Sheet**
+15:43:56,391  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+15:43:56,667  INFO ConnectionHandler - Closing Db connections
+15:43:56,669  INFO ConnectionHandler - My SQL connection closed
+15:44:01,038  INFO utils.BaseClass - **********************************Ending Session**********************************************
+
+17:43:48,395  INFO utils.BaseClass - *****************************Creating Session***************************************************
+17:43:48,404  INFO ConnectionHandler - Making connection with RDS
+17:43:57,705  INFO BaseClass - **Reading Test Case excel Sheet**
+17:43:58,219  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+17:43:58,230  INFO utils.IngestionUtil - **** TEST CASE :  COUNT for TABLE: fact_hotel_orders****
+17:43:59,041  INFO utils.IngestionUtil - **** TEST CASE :  COUNT for TABLE: fact_flight_orders****
+17:43:59,296  INFO utils.IngestionUtil - **** TEST CASE :  COUNT for TABLE: fact_package_orders****
+17:43:59,494  INFO ConnectionHandler - Closing Db connections
+17:43:59,497  INFO ConnectionHandler - My SQL connection closed
+17:44:03,765  INFO utils.BaseClass - **********************************Ending Session**********************************************
+
+17:51:46,944  INFO utils.BaseClass - *****************************Creating Session***************************************************
+17:51:46,950  INFO ConnectionHandler - Making connection with RDS
+17:51:51,500  INFO BaseClass - **Reading Test Case excel Sheet**
+17:51:52,067  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+17:51:52,076  INFO utils.IngestionUtil - **** TEST CASE :  COUNT for TABLE: fact_hotel_orders****
+17:51:52,802  INFO utils.IngestionUtil - **** TEST CASE :  COUNT for TABLE: fact_flight_orders****
+17:51:53,221  INFO utils.IngestionUtil - **** TEST CASE :  COUNT for TABLE: fact_package_orders****
+17:51:53,642  INFO ConnectionHandler - Closing Db connections
+17:51:53,647  INFO ConnectionHandler - My SQL connection closed
+17:51:58,509  INFO utils.BaseClass - **********************************Ending Session**********************************************
+
+17:54:43,926  INFO utils.BaseClass - *****************************Creating Session***************************************************
+17:54:43,932  INFO ConnectionHandler - Making connection with RDS
+17:54:48,392  INFO BaseClass - **Reading Test Case excel Sheet**
+17:54:48,888  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+17:54:48,897  INFO utils.IngestionUtil - **** TEST CASE :  COUNT for TABLE: fact_hotel_orders****
+17:54:52,151  INFO utils.IngestionUtil - Row Count for rds table: fact_hotel_orders :1594739
+17:54:52,368  INFO utils.IngestionUtil - **** TEST CASE :  COUNT for TABLE: fact_flight_orders****
+17:54:52,742  INFO utils.IngestionUtil - **** TEST CASE :  COUNT for TABLE: fact_package_orders****
+17:54:53,019  INFO utils.IngestionUtil - Row Count for rds table: fact_package_orders :1001
+17:54:53,155  INFO ConnectionHandler - Closing Db connections
+17:54:53,159  INFO ConnectionHandler - My SQL connection closed
+17:54:58,099  INFO utils.BaseClass - **********************************Ending Session**********************************************
+
+18:30:50,541  INFO utils.BaseClass - *****************************Creating Session***************************************************
+18:30:50,548  INFO ConnectionHandler - Making connection with RDS
+18:30:55,065  INFO BaseClass - **Reading Test Case excel Sheet**
+18:30:55,599  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+18:30:55,609  INFO utils.IngestionUtil - **** TEST CASE :  COUNT for TABLE: fact_flight_order****
+18:30:56,302  INFO utils.IngestionUtil - **** TEST CASE :  COUNT for TABLE: fact_package_orders****
+18:30:56,540  INFO utils.IngestionUtil - Row Count for rds table: fact_package_orders :1001
+18:30:56,647  INFO utils.IngestionUtil - **** TEST CASE :  COUNT for TABLE: fact_hotel_order****
+18:30:56,986  INFO ConnectionHandler - Closing Db connections
+18:30:56,996  INFO ConnectionHandler - My SQL connection closed
+18:31:01,266  INFO utils.BaseClass - **********************************Ending Session**********************************************
+
+18:44:52,575  INFO utils.BaseClass - *****************************Creating Session***************************************************
+18:44:52,584  INFO ConnectionHandler - Making connection with RDS
+18:44:57,589  INFO BaseClass - **Reading Test Case excel Sheet**
+18:44:58,439  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+18:44:58,462  INFO utils.IngestionUtil - **** TEST CASE :  COUNT for TABLE: fact_hotel_orders****
+18:44:59,436  INFO utils.IngestionUtil - Row Count for rds table: fact_hotel_orders :1597575
+18:44:59,947  INFO utils.IngestionUtil - **** TEST CASE :  COUNT for TABLE: fact_flight_orders****
+18:45:00,826  INFO utils.IngestionUtil - Row Count for rds table: fact_flight_orders :2977681
+18:45:00,917  INFO utils.IngestionUtil - **** TEST CASE :  COUNT for TABLE: fact_package_orders****
+18:45:01,108  INFO utils.IngestionUtil - Row Count for rds table: fact_package_orders :1001
+18:45:01,207  INFO ConnectionHandler - Closing Db connections
+18:45:01,211  INFO ConnectionHandler - My SQL connection closed
+18:45:05,329  INFO utils.BaseClass - **********************************Ending Session**********************************************
+
+18:48:25,939  INFO utils.BaseClass - *****************************Creating Session***************************************************
+18:48:25,953  INFO ConnectionHandler - Making connection with RDS
+18:48:30,846  INFO BaseClass - **Reading Test Case excel Sheet**
+18:48:31,399  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+18:48:31,408  INFO utils.IngestionUtil - **** TEST CASE :  COUNT for TABLE: fact_hotel_ordersnull
+18:48:32,262  INFO utils.IngestionUtil - Row Count for rds table: fact_hotel_orders :1597575
+18:48:32,516  INFO utils.IngestionUtil - **** TEST CASE :  COUNT for TABLE: fact_flight_orderscom.mysql.cj.jdbc.result.ResultSetImpl@545f80bf
+18:48:33,414  INFO utils.IngestionUtil - Row Count for rds table: fact_flight_orders :2977681
+18:48:33,509  INFO utils.IngestionUtil - **** TEST CASE :  COUNT for TABLE: fact_package_orderscom.mysql.cj.jdbc.result.ResultSetImpl@38600b
+18:48:33,719  INFO utils.IngestionUtil - Row Count for rds table: fact_package_orders :1001
+18:48:33,788  INFO ConnectionHandler - Closing Db connections
+18:48:33,789  INFO ConnectionHandler - My SQL connection closed
+18:48:37,509  INFO utils.BaseClass - **********************************Ending Session**********************************************
+
+18:53:04,711  INFO utils.BaseClass - *****************************Creating Session***************************************************
+18:53:04,717  INFO ConnectionHandler - Making connection with RDS
+18:53:09,089  INFO BaseClass - **Reading Test Case excel Sheet**
+18:53:09,602  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+18:53:09,610  INFO utils.IngestionUtil - ---- TEST CASE :  COUNT for TABLE: fact_hotel_orders----
+18:53:10,442  INFO utils.IngestionUtil - Row Count for rds table: fact_hotel_orders :1597575
+18:53:10,690  INFO utils.IngestionUtil - ---- TEST CASE :  COUNT for TABLE: fact_flight_orders----
+18:53:11,539  INFO utils.IngestionUtil - Row Count for rds table: fact_flight_orders :2977681
+18:53:11,625  INFO utils.IngestionUtil - ---- TEST CASE :  COUNT for TABLE: fact_package_orders----
+18:53:11,846  INFO utils.IngestionUtil - Row Count for rds table: fact_package_orders :1001
+18:53:11,973  INFO ConnectionHandler - Closing Db connections
+18:53:11,980  INFO ConnectionHandler - My SQL connection closed
+18:53:16,572  INFO utils.BaseClass - **********************************Ending Session**********************************************
+
+15:32:51,064  INFO utils.BaseClass - *****************************Creating Session***************************************************
+15:32:51,072  INFO ConnectionHandler - Making connection with RDS
+15:33:03,738  INFO BaseClass - **Reading Test Case excel Sheet**
+15:33:04,377  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+15:33:04,387  INFO utils.IngestionUtil - ---- TEST CASE :  COUNT for TABLE: fact_hotel_orders----
+15:33:06,717  INFO utils.IngestionUtil - Row Count for rds table: fact_hotel_orders :1598649
+15:33:07,031  INFO utils.IngestionUtil - ---- TEST CASE :  COUNT for TABLE: fact_flight_orders----
+15:33:10,655  INFO utils.IngestionUtil - Row Count for rds table: fact_flight_orders :2983758
+15:33:10,744  INFO utils.IngestionUtil - ---- TEST CASE :  COUNT for TABLE: fact_package_orders----
+15:33:10,905  INFO utils.IngestionUtil - Row Count for rds table: fact_package_orders :1001
+15:33:11,038  INFO ConnectionHandler - Closing Db connections
+15:33:11,046  INFO ConnectionHandler - My SQL connection closed
+15:33:16,068  INFO utils.BaseClass - **********************************Ending Session**********************************************
+
+15:23:00,964  INFO utils.BaseClass - *****************************Creating Session***************************************************
+15:23:00,990  INFO ConnectionHandler - Making connection with RDS
+15:23:14,122  INFO utils.BaseClass - *****************************Creating Session***************************************************
+15:23:14,143  INFO ConnectionHandler - Making connection with RDS
+15:23:36,596  INFO BaseClass - **Reading Test Case excel Sheet**
+15:24:40,058  INFO utils.BaseClass - *****************************Creating Session***************************************************
+15:24:40,074  INFO ConnectionHandler - Making connection with RDS
+14:41:40,494  INFO utils.BaseClass - *****************************Creating Session***************************************************
+14:41:40,502  INFO ConnectionHandler - Making connection with RDS
+14:41:44,293  INFO BaseClass - **Reading Test Case excel Sheet**
+14:41:44,756  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+14:41:44,763  INFO utils.IngestionUtil - ---- TEST CASE :  COUNT for TABLE: fact_hotel_orders----
+14:41:47,097  INFO utils.IngestionUtil - Row Count for rds table: fact_hotel_orders :1605213
+14:41:47,261  INFO utils.IngestionUtil - ---- TEST CASE :  COUNT for TABLE: fact_flight_orders----
+14:41:48,114  INFO utils.IngestionUtil - Row Count for rds table: fact_flight_orders :3030694
+14:41:48,137  INFO utils.IngestionUtil - ---- TEST CASE :  COUNT for TABLE: fact_package_orders----
+14:41:48,305  INFO utils.IngestionUtil - Row Count for rds table: fact_package_orders :1001
+14:41:48,341  INFO ConnectionHandler - Closing Db connections
+14:41:48,343  INFO ConnectionHandler - My SQL connection closed
+14:41:52,688  INFO utils.BaseClass - **********************************Ending Session**********************************************
+
+14:47:27,587  INFO utils.BaseClass - *****************************Creating Session***************************************************
+14:47:27,593  INFO ConnectionHandler - Making connection with RDS
+14:47:31,851  INFO BaseClass - **Reading Test Case excel Sheet**
+14:47:32,284  INFO com.atg.dmap.ingestion.TestIngestion - org.testng.xml.XmlTest@cffab0b
+14:47:32,290  INFO utils.IngestionUtil - ---- TEST CASE :  COUNT for TABLE: fact_hotel_orders----
+14:47:33,004  INFO utils.IngestionUtil - Row Count for rds table: fact_hotel_orders :1605213
+14:47:33,154  INFO utils.IngestionUtil - ---- TEST CASE :  COUNT for TABLE: fact_flight_orders----
+14:47:33,989  INFO utils.IngestionUtil - Row Count for rds table: fact_flight_orders :3030694
+14:47:34,012  INFO utils.IngestionUtil - ---- TEST CASE :  COUNT for TABLE: fact_package_orders----
+14:47:34,173  INFO utils.IngestionUtil - Row Count for rds table: fact_package_orders :1001
+14:47:34,205  INFO ConnectionHandler - Closing Db connections
+14:47:34,207  INFO ConnectionHandler - My SQL connection closed
+14:47:37,829  INFO utils.BaseClass - **********************************Ending Session**********************************************
+

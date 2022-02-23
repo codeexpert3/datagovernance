@@ -1,0 +1,325 @@
+2020-02-18 13:56:35 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-18 13:56:35 INFO  TestIngestion:43 - org.testng.xml.XmlTest@c38860a3
+2020-02-18 13:57:41 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-18 13:57:41 INFO  TestIngestion:43 - org.testng.xml.XmlTest@cffab0b
+2020-02-18 14:00:32 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-18 14:00:32 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-18 14:00:50 INFO  TestIngestion:43 - org.testng.xml.XmlTest@cffab0b
+2020-02-20 09:56:57 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-20 09:56:57 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-20 09:57:03 INFO  TestIngestion:43 - org.testng.xml.XmlTest@cffab0b
+2020-02-20 10:09:40 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-20 10:09:40 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-20 10:09:41 INFO  TestIngestion:43 - org.testng.xml.XmlTest@cffab0b
+2020-02-20 10:10:30 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-20 10:10:30 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-20 10:10:31 INFO  TestIngestion:43 - org.testng.xml.XmlTest@cffab0b
+2020-02-20 14:58:12 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-20 14:58:12 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-20 14:58:18 INFO  TestIngestion:46 - org.testng.xml.XmlTest@cffab0b
+2020-02-20 16:47:28 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-20 16:47:28 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-20 16:47:29 INFO  TestIngestion:46 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 11:15:00 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 11:15:00 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 11:15:08 INFO  TestIngestion:37 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 11:21:22 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 11:21:22 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 11:21:23 INFO  TestIngestion:37 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 11:24:22 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 11:24:22 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 11:24:22 INFO  TestIngestion:37 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 11:25:18 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 11:25:18 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 11:25:19 INFO  TestIngestion:37 - org.testng.xml.XmlTest@8421b5e6
+2020-02-24 11:28:50 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 11:28:50 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 11:28:51 INFO  TestIngestion:37 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 11:30:20 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 11:30:20 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 11:30:20 INFO  TestIngestion:37 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 11:33:44 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 11:33:44 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 11:33:44 INFO  TestIngestion:37 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 11:35:59 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 11:35:59 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 11:35:59 INFO  TestIngestion:37 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 11:49:13 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 11:49:13 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 11:49:14 INFO  TestIngestion:37 - org.testng.xml.XmlTest@a7ec2e21
+2020-02-24 12:01:02 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 12:01:02 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 12:01:03 INFO  TestIngestion:37 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 12:07:21 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 12:07:21 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 12:07:30 INFO  TestIngestion:37 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 12:18:50 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 12:18:50 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 12:19:18 INFO  TestIngestion:37 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 12:20:13 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 12:20:25 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 12:20:36 INFO  TestIngestion:37 - org.testng.xml.XmlTest@9bf2e835
+2020-02-24 12:20:57 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 12:20:57 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 12:21:01 INFO  TestIngestion:37 - org.testng.xml.XmlTest@9bf2e835
+2020-02-24 12:21:22 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 12:21:22 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 12:21:25 INFO  TestIngestion:37 - org.testng.xml.XmlTest@9bf2e835
+2020-02-24 12:22:07 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 12:22:07 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 12:22:10 INFO  TestIngestion:37 - org.testng.xml.XmlTest@9bf2e835
+2020-02-24 12:23:22 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 12:23:22 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 12:23:27 INFO  TestIngestion:37 - org.testng.xml.XmlTest@9bf2e835
+2020-02-24 12:24:32 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 12:24:32 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 12:24:35 INFO  TestIngestion:37 - org.testng.xml.XmlTest@9bf2e835
+2020-02-24 12:24:49 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 12:24:49 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 12:24:53 INFO  TestIngestion:37 - org.testng.xml.XmlTest@9bf2e835
+2020-02-24 12:25:34 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 12:25:34 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 12:25:54 INFO  TestIngestion:37 - org.testng.xml.XmlTest@9bf2e835
+2020-02-24 12:27:24 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 12:27:24 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 12:27:25 INFO  TestIngestion:37 - org.testng.xml.XmlTest@c38860a3
+2020-02-24 12:27:58 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 12:27:58 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 12:27:58 INFO  TestIngestion:37 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 12:29:48 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 12:29:48 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 12:29:48 ERROR ConnectionHandler:52 - Error connecting to MySql  :
+java.sql.SQLException: The url cannot be null
+2020-02-24 12:29:48 INFO  TestIngestion:37 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 12:33:07 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 12:33:07 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 12:33:07 ERROR ConnectionHandler:52 - Error connecting to MySql  :
+java.sql.SQLException: The url cannot be null
+2020-02-24 12:33:07 INFO  TestIngestion:37 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 12:34:57 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 12:34:57 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 12:34:59 ERROR ConnectionHandler:52 - Error connecting to MySql  :
+java.sql.SQLException: Access denied for user 'qa.svc'@'10.72.6.118' (using password: YES)
+2020-02-24 12:34:59 INFO  TestIngestion:37 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 12:36:20 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 12:36:20 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 12:36:24 INFO  BaseClass:30 - **Reading Test Case excel Sheet**
+2020-02-24 12:36:24 INFO  TestIngestion:37 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 12:36:24 ERROR BaseClass:102 - java.lang.NullPointerException
+2020-02-24 12:36:24 ERROR BaseClass:102 - java.lang.NullPointerException
+2020-02-24 12:36:24 ERROR BaseClass:102 - java.lang.NullPointerException
+2020-02-24 12:36:24 INFO  ConnectionHandler:63 - Closing Db connections
+2020-02-24 12:36:24 INFO  ConnectionHandler:68 - My SQL connection closed
+2020-02-24 12:38:48 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 12:38:48 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 12:39:01 INFO  BaseClass:30 - **Reading Test Case excel Sheet**
+2020-02-24 12:39:33 INFO  TestIngestion:37 - org.testng.xml.XmlTest@9bf2e835
+2020-02-24 12:40:41 ERROR BaseClass:102 - java.lang.NullPointerException
+2020-02-24 12:40:53 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 12:40:53 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 12:40:56 INFO  BaseClass:30 - **Reading Test Case excel Sheet**
+2020-02-24 12:40:57 INFO  TestIngestion:37 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 12:40:57 INFO  ConnectionHandler:63 - Closing Db connections
+2020-02-24 12:40:57 INFO  ConnectionHandler:68 - My SQL connection closed
+2020-02-24 12:41:22 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 12:41:22 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 12:41:28 INFO  BaseClass:30 - **Reading Test Case excel Sheet**
+2020-02-24 12:41:42 INFO  TestIngestion:37 - org.testng.xml.XmlTest@9bf2e835
+2020-02-24 12:43:09 INFO  ConnectionHandler:63 - Closing Db connections
+2020-02-24 12:43:09 INFO  ConnectionHandler:68 - My SQL connection closed
+2020-02-24 12:43:28 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 12:43:28 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 12:43:31 INFO  BaseClass:30 - **Reading Test Case excel Sheet**
+2020-02-24 12:43:31 INFO  TestIngestion:37 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 12:43:32 INFO  ConnectionHandler:63 - Closing Db connections
+2020-02-24 12:43:32 INFO  ConnectionHandler:68 - My SQL connection closed
+2020-02-24 12:45:10 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 12:45:10 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 12:45:10 INFO  TestIngestion:37 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 12:47:04 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 12:47:04 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 12:47:05 INFO  TestIngestion:37 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 12:50:14 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 12:50:14 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 12:50:16 ERROR ConnectionHandler:52 - Error connecting to MySql  :
+java.sql.SQLException: Access denied for user 'qa.svc'@'10.72.6.118' (using password: YES)
+2020-02-24 12:50:16 INFO  TestIngestion:37 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 12:58:01 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 12:58:01 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 12:58:08 INFO  BaseClass:30 - **Reading Test Case excel Sheet**
+2020-02-24 12:58:09 INFO  TestIngestion:37 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 12:58:09 INFO  ConnectionHandler:63 - Closing Db connections
+2020-02-24 12:58:09 INFO  ConnectionHandler:68 - My SQL connection closed
+2020-02-24 12:58:13 INFO  BaseClass:122 - **********************************Ending Session**********************************************
+
+2020-02-24 13:20:26 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 13:20:26 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 13:20:29 INFO  BaseClass:30 - **Reading Test Case excel Sheet**
+2020-02-24 13:20:30 INFO  TestIngestion:37 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 13:20:30 INFO  ConnectionHandler:58 - Closing Db connections
+2020-02-24 13:20:30 INFO  ConnectionHandler:63 - My SQL connection closed
+2020-02-24 13:20:34 INFO  BaseClass:122 - **********************************Ending Session**********************************************
+
+2020-02-24 13:26:22 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 13:26:22 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 13:26:25 INFO  BaseClass:30 - **Reading Test Case excel Sheet**
+2020-02-24 13:26:25 INFO  TestIngestion:37 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 13:26:26 INFO  ConnectionHandler:58 - Closing Db connections
+2020-02-24 13:26:26 INFO  ConnectionHandler:63 - My SQL connection closed
+2020-02-24 13:26:29 INFO  BaseClass:122 - **********************************Ending Session**********************************************
+
+2020-02-24 15:43:45 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 15:43:45 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 15:43:55 INFO  BaseClass:30 - **Reading Test Case excel Sheet**
+2020-02-24 15:43:56 INFO  TestIngestion:37 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 15:43:56 INFO  ConnectionHandler:58 - Closing Db connections
+2020-02-24 15:43:56 INFO  ConnectionHandler:63 - My SQL connection closed
+2020-02-24 15:44:01 INFO  BaseClass:122 - **********************************Ending Session**********************************************
+
+2020-02-24 17:43:48 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 17:43:48 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 17:43:57 INFO  BaseClass:30 - **Reading Test Case excel Sheet**
+2020-02-24 17:43:58 INFO  TestIngestion:40 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 17:43:58 INFO  IngestionUtil:20 - **** TEST CASE :  COUNT for TABLE: fact_hotel_orders****
+2020-02-24 17:43:58 ERROR IngestionUtil:41 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1
+2020-02-24 17:43:59 INFO  IngestionUtil:20 - **** TEST CASE :  COUNT for TABLE: fact_flight_orders****
+2020-02-24 17:43:59 ERROR IngestionUtil:41 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1
+2020-02-24 17:43:59 INFO  IngestionUtil:20 - **** TEST CASE :  COUNT for TABLE: fact_package_orders****
+2020-02-24 17:43:59 ERROR IngestionUtil:41 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1
+2020-02-24 17:43:59 INFO  ConnectionHandler:58 - Closing Db connections
+2020-02-24 17:43:59 INFO  ConnectionHandler:63 - My SQL connection closed
+2020-02-24 17:44:03 INFO  BaseClass:122 - **********************************Ending Session**********************************************
+
+2020-02-24 17:51:46 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 17:51:46 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 17:51:51 INFO  BaseClass:30 - **Reading Test Case excel Sheet**
+2020-02-24 17:51:52 INFO  TestIngestion:40 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 17:51:52 INFO  IngestionUtil:20 - **** TEST CASE :  COUNT for TABLE: fact_hotel_orders****
+2020-02-24 17:51:52 ERROR IngestionUtil:41 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''+ RDSSchemaName + . + tableName +' at line 1
+2020-02-24 17:51:52 INFO  IngestionUtil:20 - **** TEST CASE :  COUNT for TABLE: fact_flight_orders****
+2020-02-24 17:51:53 ERROR IngestionUtil:41 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''+ RDSSchemaName + . + tableName +' at line 1
+2020-02-24 17:51:53 INFO  IngestionUtil:20 - **** TEST CASE :  COUNT for TABLE: fact_package_orders****
+2020-02-24 17:51:53 ERROR IngestionUtil:41 - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''+ RDSSchemaName + . + tableName +' at line 1
+2020-02-24 17:51:53 INFO  ConnectionHandler:58 - Closing Db connections
+2020-02-24 17:51:53 INFO  ConnectionHandler:63 - My SQL connection closed
+2020-02-24 17:51:58 INFO  BaseClass:122 - **********************************Ending Session**********************************************
+
+2020-02-24 17:54:43 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 17:54:43 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 17:54:48 INFO  BaseClass:30 - **Reading Test Case excel Sheet**
+2020-02-24 17:54:48 INFO  TestIngestion:40 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 17:54:48 INFO  IngestionUtil:20 - **** TEST CASE :  COUNT for TABLE: fact_hotel_orders****
+2020-02-24 17:54:52 INFO  IngestionUtil:37 - Row Count for rds table: fact_hotel_orders :1594739
+2020-02-24 17:54:52 INFO  IngestionUtil:20 - **** TEST CASE :  COUNT for TABLE: fact_flight_orders****
+2020-02-24 17:54:52 ERROR IngestionUtil:41 - java.sql.SQLSyntaxErrorException: Table 'bi_hdp.fact_flight_orders' doesn't exist
+2020-02-24 17:54:52 INFO  IngestionUtil:20 - **** TEST CASE :  COUNT for TABLE: fact_package_orders****
+2020-02-24 17:54:53 INFO  IngestionUtil:37 - Row Count for rds table: fact_package_orders :1001
+2020-02-24 17:54:53 INFO  ConnectionHandler:58 - Closing Db connections
+2020-02-24 17:54:53 INFO  ConnectionHandler:63 - My SQL connection closed
+2020-02-24 17:54:58 INFO  BaseClass:122 - **********************************Ending Session**********************************************
+
+2020-02-24 18:30:50 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 18:30:50 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 18:30:55 INFO  BaseClass:30 - **Reading Test Case excel Sheet**
+2020-02-24 18:30:55 INFO  TestIngestion:40 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 18:30:55 INFO  IngestionUtil:20 - **** TEST CASE :  COUNT for TABLE: fact_flight_order****
+2020-02-24 18:30:56 ERROR IngestionUtil:41 - java.sql.SQLSyntaxErrorException: Table 'bi_hdp.fact_flight_order' doesn't exist
+2020-02-24 18:30:56 INFO  IngestionUtil:20 - **** TEST CASE :  COUNT for TABLE: fact_package_orders****
+2020-02-24 18:30:56 INFO  IngestionUtil:37 - Row Count for rds table: fact_package_orders :1001
+2020-02-24 18:30:56 INFO  IngestionUtil:20 - **** TEST CASE :  COUNT for TABLE: fact_hotel_order****
+2020-02-24 18:30:56 ERROR IngestionUtil:41 - java.sql.SQLSyntaxErrorException: Table 'bi_hdp.fact_hotel_order' doesn't exist
+2020-02-24 18:30:56 INFO  ConnectionHandler:58 - Closing Db connections
+2020-02-24 18:30:56 INFO  ConnectionHandler:63 - My SQL connection closed
+2020-02-24 18:31:01 INFO  BaseClass:122 - **********************************Ending Session**********************************************
+
+2020-02-24 18:44:52 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 18:44:52 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 18:44:57 INFO  BaseClass:30 - **Reading Test Case excel Sheet**
+2020-02-24 18:44:58 INFO  TestIngestion:40 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 18:44:58 INFO  IngestionUtil:20 - **** TEST CASE :  COUNT for TABLE: fact_hotel_orders****
+2020-02-24 18:44:59 INFO  IngestionUtil:37 - Row Count for rds table: fact_hotel_orders :1597575
+2020-02-24 18:44:59 INFO  IngestionUtil:20 - **** TEST CASE :  COUNT for TABLE: fact_flight_orders****
+2020-02-24 18:45:00 INFO  IngestionUtil:37 - Row Count for rds table: fact_flight_orders :2977681
+2020-02-24 18:45:00 INFO  IngestionUtil:20 - **** TEST CASE :  COUNT for TABLE: fact_package_orders****
+2020-02-24 18:45:01 INFO  IngestionUtil:37 - Row Count for rds table: fact_package_orders :1001
+2020-02-24 18:45:01 INFO  ConnectionHandler:58 - Closing Db connections
+2020-02-24 18:45:01 INFO  ConnectionHandler:63 - My SQL connection closed
+2020-02-24 18:45:05 INFO  BaseClass:122 - **********************************Ending Session**********************************************
+
+2020-02-24 18:48:25 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 18:48:25 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 18:48:30 INFO  BaseClass:30 - **Reading Test Case excel Sheet**
+2020-02-24 18:48:31 INFO  TestIngestion:40 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 18:48:31 INFO  IngestionUtil:20 - **** TEST CASE :  COUNT for TABLE: fact_hotel_ordersnull
+2020-02-24 18:48:32 INFO  IngestionUtil:37 - Row Count for rds table: fact_hotel_orders :1597575
+2020-02-24 18:48:32 INFO  IngestionUtil:20 - **** TEST CASE :  COUNT for TABLE: fact_flight_orderscom.mysql.cj.jdbc.result.ResultSetImpl@545f80bf
+2020-02-24 18:48:33 INFO  IngestionUtil:37 - Row Count for rds table: fact_flight_orders :2977681
+2020-02-24 18:48:33 INFO  IngestionUtil:20 - **** TEST CASE :  COUNT for TABLE: fact_package_orderscom.mysql.cj.jdbc.result.ResultSetImpl@38600b
+2020-02-24 18:48:33 INFO  IngestionUtil:37 - Row Count for rds table: fact_package_orders :1001
+2020-02-24 18:48:33 INFO  ConnectionHandler:58 - Closing Db connections
+2020-02-24 18:48:33 INFO  ConnectionHandler:63 - My SQL connection closed
+2020-02-24 18:48:37 INFO  BaseClass:122 - **********************************Ending Session**********************************************
+
+2020-02-24 18:53:04 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-24 18:53:04 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-24 18:53:09 INFO  BaseClass:30 - **Reading Test Case excel Sheet**
+2020-02-24 18:53:09 INFO  TestIngestion:40 - org.testng.xml.XmlTest@cffab0b
+2020-02-24 18:53:09 INFO  IngestionUtil:20 - ---- TEST CASE :  COUNT for TABLE: fact_hotel_orders----
+2020-02-24 18:53:10 INFO  IngestionUtil:37 - Row Count for rds table: fact_hotel_orders :1597575
+2020-02-24 18:53:10 INFO  IngestionUtil:20 - ---- TEST CASE :  COUNT for TABLE: fact_flight_orders----
+2020-02-24 18:53:11 INFO  IngestionUtil:37 - Row Count for rds table: fact_flight_orders :2977681
+2020-02-24 18:53:11 INFO  IngestionUtil:20 - ---- TEST CASE :  COUNT for TABLE: fact_package_orders----
+2020-02-24 18:53:11 INFO  IngestionUtil:37 - Row Count for rds table: fact_package_orders :1001
+2020-02-24 18:53:11 INFO  ConnectionHandler:58 - Closing Db connections
+2020-02-24 18:53:11 INFO  ConnectionHandler:63 - My SQL connection closed
+2020-02-24 18:53:16 INFO  BaseClass:122 - **********************************Ending Session**********************************************
+
+2020-02-25 15:32:51 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-02-25 15:32:51 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-02-25 15:33:03 INFO  BaseClass:30 - **Reading Test Case excel Sheet**
+2020-02-25 15:33:04 INFO  TestIngestion:40 - org.testng.xml.XmlTest@cffab0b
+2020-02-25 15:33:04 INFO  IngestionUtil:20 - ---- TEST CASE :  COUNT for TABLE: fact_hotel_orders----
+2020-02-25 15:33:06 INFO  IngestionUtil:37 - Row Count for rds table: fact_hotel_orders :1598649
+2020-02-25 15:33:07 INFO  IngestionUtil:20 - ---- TEST CASE :  COUNT for TABLE: fact_flight_orders----
+2020-02-25 15:33:10 INFO  IngestionUtil:37 - Row Count for rds table: fact_flight_orders :2983758
+2020-02-25 15:33:10 INFO  IngestionUtil:20 - ---- TEST CASE :  COUNT for TABLE: fact_package_orders----
+2020-02-25 15:33:10 INFO  IngestionUtil:37 - Row Count for rds table: fact_package_orders :1001
+2020-02-25 15:33:11 INFO  ConnectionHandler:58 - Closing Db connections
+2020-02-25 15:33:11 INFO  ConnectionHandler:63 - My SQL connection closed
+2020-02-25 15:33:16 INFO  BaseClass:122 - **********************************Ending Session**********************************************
+
+2020-03-02 15:23:00 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-03-02 15:23:00 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-03-02 15:23:14 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-03-02 15:23:14 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-03-02 15:23:36 INFO  BaseClass:30 - **Reading Test Case excel Sheet**
+2020-03-02 15:24:40 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-03-02 15:24:40 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-03-04 14:41:40 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-03-04 14:41:40 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-03-04 14:41:44 INFO  BaseClass:30 - **Reading Test Case excel Sheet**
+2020-03-04 14:41:44 INFO  TestIngestion:40 - org.testng.xml.XmlTest@cffab0b
+2020-03-04 14:41:44 INFO  IngestionUtil:20 - ---- TEST CASE :  COUNT for TABLE: fact_hotel_orders----
+2020-03-04 14:41:47 INFO  IngestionUtil:37 - Row Count for rds table: fact_hotel_orders :1605213
+2020-03-04 14:41:47 INFO  IngestionUtil:20 - ---- TEST CASE :  COUNT for TABLE: fact_flight_orders----
+2020-03-04 14:41:48 INFO  IngestionUtil:37 - Row Count for rds table: fact_flight_orders :3030694
+2020-03-04 14:41:48 INFO  IngestionUtil:20 - ---- TEST CASE :  COUNT for TABLE: fact_package_orders----
+2020-03-04 14:41:48 INFO  IngestionUtil:37 - Row Count for rds table: fact_package_orders :1001
+2020-03-04 14:41:48 INFO  ConnectionHandler:58 - Closing Db connections
+2020-03-04 14:41:48 INFO  ConnectionHandler:63 - My SQL connection closed
+2020-03-04 14:41:52 INFO  BaseClass:122 - **********************************Ending Session**********************************************
+
+2020-03-04 14:47:27 INFO  BaseClass:58 - *****************************Creating Session***************************************************
+2020-03-04 14:47:27 INFO  ConnectionHandler:30 - Making connection with RDS
+2020-03-04 14:47:31 INFO  BaseClass:30 - **Reading Test Case excel Sheet**
+2020-03-04 14:47:32 INFO  TestIngestion:40 - org.testng.xml.XmlTest@cffab0b
+2020-03-04 14:47:32 INFO  IngestionUtil:20 - ---- TEST CASE :  COUNT for TABLE: fact_hotel_orders----
+2020-03-04 14:47:33 INFO  IngestionUtil:37 - Row Count for rds table: fact_hotel_orders :1605213
+2020-03-04 14:47:33 INFO  IngestionUtil:20 - ---- TEST CASE :  COUNT for TABLE: fact_flight_orders----
+2020-03-04 14:47:33 INFO  IngestionUtil:37 - Row Count for rds table: fact_flight_orders :3030694
+2020-03-04 14:47:34 INFO  IngestionUtil:20 - ---- TEST CASE :  COUNT for TABLE: fact_package_orders----
+2020-03-04 14:47:34 INFO  IngestionUtil:37 - Row Count for rds table: fact_package_orders :1001
+2020-03-04 14:47:34 INFO  ConnectionHandler:58 - Closing Db connections
+2020-03-04 14:47:34 INFO  ConnectionHandler:63 - My SQL connection closed
+2020-03-04 14:47:37 INFO  BaseClass:122 - **********************************Ending Session**********************************************
+

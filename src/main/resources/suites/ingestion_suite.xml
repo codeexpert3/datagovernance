@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+
+<suite name="Incremental Ingestion Test Report" verbose="1">
+    <parameter name="sheet_name" value="IngestionTest"/>
+
+    <test name=" Data Ingestion">
+        <classes>
+
+            <class name="com.psc.dmg.ingestion.TestIngestion"/>
+
+
+        </classes>
+
+
+    </test>
+
+
+
+
+</suite>
